@@ -56,7 +56,7 @@ export const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-center space-x-2 text-gray-600">
                 <Mail size={16} />
-                <span>info@genexsus.com</span>
+                <span>irsal.imran@genexsus.com</span>
               </li>
               <li className="flex items-center space-x-2 text-gray-600">
                 <Phone size={16} />
@@ -64,7 +64,7 @@ export const Footer = () => {
               </li>
               <li className="flex items-center space-x-2 text-gray-600">
                 <MapPin size={16} />
-                <span>123 AI Street, Tech City</span>
+                <span>180 Pearl Street, Manchester, NH 03104</span>
               </li>
             </ul>
           </div>
