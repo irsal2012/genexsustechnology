@@ -100,8 +100,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="font-medium text-gray-900">Email Us</p>
-                    <a href="mailto:contact@genexsus.com" className="text-purple-600 hover:text-purple-700">
-                      contact@genexsus.com
+                    <a href="mailto:irsal.imran@genexsus.com" className="text-purple-600 hover:text-purple-700">
+                      irsal.imran@genexsus.com
                     </a>
                   </div>
                 </div>
@@ -125,8 +125,8 @@ const Contact = () => {
                   <div>
                     <p className="font-medium text-gray-900">Visit Us</p>
                     <p className="text-gray-600">
-                      123 Tech Street, Innovation District<br />
-                      San Francisco, CA 94105
+                      180 Pearl Street<br />
+                      New Hampshire, NH 03104
                     </p>
                   </div>
                 </div>
